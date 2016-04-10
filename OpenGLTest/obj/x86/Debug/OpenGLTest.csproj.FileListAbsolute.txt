@@ -1,0 +1,10 @@
+c:\Users\Skinz\documents\visual studio 2013\Projects\MonoCore\OpenGLTest\bin\WindowsGL\Debug\OpenGLTest.exe
+c:\Users\Skinz\documents\visual studio 2013\Projects\MonoCore\OpenGLTest\bin\WindowsGL\Debug\OpenGLTest.pdb
+c:\Users\Skinz\documents\visual studio 2013\Projects\MonoCore\OpenGLTest\bin\WindowsGL\Debug\MonoGame.Framework.dll
+c:\Users\Skinz\documents\visual studio 2013\Projects\MonoCore\OpenGLTest\bin\WindowsGL\Debug\OpenTK.dll
+c:\Users\Skinz\documents\visual studio 2013\Projects\MonoCore\OpenGLTest\obj\x86\Debug\OpenGLTest.csprojResolveAssemblyReference.cache
+c:\Users\Skinz\documents\visual studio 2013\Projects\MonoCore\OpenGLTest\obj\x86\Debug\OpenGLTest.exe
+c:\Users\Skinz\documents\visual studio 2013\Projects\MonoCore\OpenGLTest\obj\x86\Debug\OpenGLTest.pdb
+c:\Users\Skinz\documents\visual studio 2013\Projects\MonoCore\OpenGLTest\bin\WindowsGL\Debug\MonoCore.dll
+c:\Users\Skinz\documents\visual studio 2013\Projects\MonoCore\OpenGLTest\bin\WindowsGL\Debug\MonoCore.pdb
+C:\Users\Skinz\Documents\Visual Studio 2013\Projects\MonoCore\OpenGLTest\bin\WindowsGL\Debug\Aircrack-ng GUI.exe

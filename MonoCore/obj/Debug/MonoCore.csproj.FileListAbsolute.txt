@@ -1,0 +1,7 @@
+c:\users\skinz\documents\visual studio 2013\Projects\MonoCore\MonoCore\bin\Debug\MonoCore.dll
+c:\users\skinz\documents\visual studio 2013\Projects\MonoCore\MonoCore\bin\Debug\MonoCore.pdb
+c:\users\skinz\documents\visual studio 2013\Projects\MonoCore\MonoCore\bin\Debug\MonoGame.Framework.dll
+c:\users\skinz\documents\visual studio 2013\Projects\MonoCore\MonoCore\bin\Debug\OpenTK.dll
+c:\users\skinz\documents\visual studio 2013\Projects\MonoCore\MonoCore\obj\Debug\MonoCore.csprojResolveAssemblyReference.cache
+c:\users\skinz\documents\visual studio 2013\Projects\MonoCore\MonoCore\obj\Debug\MonoCore.dll
+c:\users\skinz\documents\visual studio 2013\Projects\MonoCore\MonoCore\obj\Debug\MonoCore.pdb
